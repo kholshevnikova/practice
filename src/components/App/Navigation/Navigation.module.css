@@ -1,0 +1,12 @@
+.link {
+    color: black;
+}
+
+.active {
+    color: orangered
+}
+
+.container {
+    display: flex;
+    gap: 8px;
+}
